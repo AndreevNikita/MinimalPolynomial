@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Матика\34\34\bin\Debug\34.exe.config
+C:\Users\Nick\Documents\Матика\34\34\bin\Debug\34.exe
+C:\Users\Nick\Documents\Матика\34\34\bin\Debug\34.pdb
+C:\Users\Nick\Documents\Матика\34\34\obj\Debug\34.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\Матика\34\34\obj\Debug\34.exe
+C:\Users\Nick\Documents\Матика\34\34\obj\Debug\34.pdb
